@@ -1,3 +1,3 @@
-# qtile_config
+# Qtile config
 
 Qtile configuration on Arch Linux
